@@ -1,2 +1,2 @@
-# stabe-diffusion-cptk
+# stable-diffusion-cptk
 yes

@@ -1,0 +1,2 @@
+# stabe-diffusion-cptk
+yes
